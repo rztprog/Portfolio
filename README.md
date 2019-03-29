@@ -2,14 +2,15 @@
 
 # Welcome to MY PORTFOLIO WEBSITE
 
+## COLOR PALETTE USED (GREEN BASED)
 
-## UNDER CONSTRUCT
+<div style="color: #78A477">#78A477</div>
+<div style="color: #2D9631">#2D9631</div>
+<div style="color: #2E543E">#2E543E</div>
+<div style="color: #B2B2B2">#B2B2B2</div>
+<div style="color: #000000">#000000</div>
 
+## FONT USED
 
-## COLOR PALETTE USE (GREEN BASED)
+![Bunya](https://www.dafont.com/bunya.font)
 
-<span style="color: #78A477">#78A477</span>
-<span style="color: #2D9631">#2D9631</span>
-<span style="color: #2E543E">#2E543E</span>
-<span style="color: #B2B2B2">#B2B2B2</span>
-<span style="color: #000000">#000000</span>
